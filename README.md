@@ -8,3 +8,4 @@ Calculations and a Shiny app to visualise planetary orbits on a world map, using
 
 Figures on the planetary orbits came from [this NASA factsheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/), which takes data from multiple sources. 
 
+For now, the Shiny app is hosted at [https://johngodlee.shinyapps.io/planet_orbit/](https://johngodlee.shinyapps.io/planet_orbit/).

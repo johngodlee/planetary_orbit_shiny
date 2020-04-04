@@ -246,6 +246,8 @@ server <- function(input, output, session) {
       Planetary orbit data taken from <a href='https://nssdc.gsfc.nasa.gov/planetary/factsheet/' target='_blank'>https://nssdc.gsfc.nasa.gov/planetary/factsheet/</a>
       <br>
       Created by <a href='https://blogs.ed.ac.uk/johngodlee/' target='_blank'>John L. Godlee</a>
+      <br>
+      Source code on <a href='https://github.com/johngodlee/planetary_orbit_shiny' target='_blank'>Github</a>
       "),
       easyClose = TRUE
     ))
