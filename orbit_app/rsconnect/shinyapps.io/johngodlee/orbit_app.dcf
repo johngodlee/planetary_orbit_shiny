@@ -1,0 +1,12 @@
+name: orbit_app
+title: orbit_app
+username:
+account: johngodlee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2050058
+bundleId: 2965064
+url: https://johngodlee.shinyapps.io/orbit_app/
+when: 1585930377.67207
+asMultiple: FALSE
+asStatic: FALSE
